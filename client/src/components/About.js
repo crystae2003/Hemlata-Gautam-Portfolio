@@ -7,9 +7,11 @@ gsap.registerPlugin(ScrollTrigger);
 
 function About() {
   const aboutMeDetailed = `
-    I am a third-year B.Tech Computer Science student at IIT Ropar with a diverse background in developing innovative technology solutions. My profile highlights include:   
+    I am a final year B.Tech Computer Science student at IIT Ropar with a diverse background in developing innovative technology solutions. My profile highlights include:   
   `;
   const about_points = [
+    `Amazon ML Summer School 2025:
+    Selected as a mentee for Amazon ML Summer School 2025, ranking among the top 3,000 students out of 60,000+ applicants nationwide, for exceptional aptitude in Machine Learning and Data Science.`,
     `Competitive Programming:
     Strong problem-solving skills honed through extensive experience in C and C++, forming the backbone of my efficient and clean coding practices.`,
     `Web and Backend Development:
