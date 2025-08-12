@@ -12,8 +12,8 @@ function About() {
   const about_points = [
     `Amazon ML Summer School 2025:
      Selected as a mentee for Amazon ML Summer School 2025, ranking among the top 3,000 students out of 60,000+ applicants nationwide, for exceptional aptitude in Machine Learning and Data Science.`,
-    `Summer Internship 2025: Cloud-based AC Temperature Control IoT Mobile App
-     Smart IoT solution enabling real-time, remote AC control with telemetry and scheduling — designed for reliability, low latency, and seamless user experience`,
+    `Summer Internship 2025: 
+      Built a "Cloud-based AC Temperature Control IoT Application". It is a smart IoT solution enabling real-time, remote AC control with telemetry and scheduling — designed for reliability, low latency, and seamless user experience`,
     `Competitive Programming:
     Strong problem-solving skills honed through extensive experience in C and C++, forming the backbone of my efficient and clean coding practices.`,
     `Web and Backend Development:
