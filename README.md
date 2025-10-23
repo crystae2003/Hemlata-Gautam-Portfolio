@@ -3,6 +3,10 @@
 
 A comprehensive portfolio website highlighting my expertise, projects, and professional journey.
 
+(Created as part of a company's hiring assignment)
+
+### [Website Link](predusk-hiring-assignment.vercel.app)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -56,4 +60,5 @@ Follow these steps to set up the project locally:
 
 ## Deployment Challenges
 Initially, deploying the full-stack portfolio (frontend and backend) on Vercel encountered multiple issues. Consequently, the backend was deployed separately on Render, which unfortunately led to a submission delay of approximately 2 hours.
+
 
